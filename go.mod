@@ -1,3 +1,3 @@
-module github.com/awsgcr/gitops-prow-demo
+module gitops-prow-demo
 
-go 1.16
+go 1.21.5
